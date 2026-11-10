@@ -20,6 +20,12 @@ Before Intentionaut I led product and design at [StepStone](https://intentionaut
 
 **[Step-Free London](https://intentionaut.com/step-free-london/)** ([code](https://github.com/intentionaut/step-free-london)). Maps which tube stations disabled Londoners can use against where they live, by borough, from TfL, OpenStreetMap and 2021 Census data.
 
+## Recently
+
+- 28 Oct 2026: [Context engineering is a product decision](https://intentionaut.com/writing/context-engineering-is-a-product-decision/)
+
 ## More
 
-Writing, case studies and ways to get in touch: [intentionaut.com](https://intentionaut.com/).
+- [Writing](https://intentionaut.com/writing/) and the [newsletter](https://intentionaut.com/subscribe/)
+- [Case studies](https://intentionaut.com/case-studies/)
+- Everything else, and ways to get in touch: [intentionaut.com](https://intentionaut.com/)
