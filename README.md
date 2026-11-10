@@ -2,7 +2,7 @@
 
 Product leader and builder in London, working across design, product, data and AI. I run [Intentionaut](https://intentionaut.com/).
 
-Before Intentionaut I led product and design at StepStone, ran product for AI, data platforms and machine learning at Sainsbury's, and was the first design hire at Cazoo.
+Before Intentionaut I led product and design at [StepStone](https://intentionaut.com/case-studies/stepstone/), ran product for AI, data platforms and machine learning at Sainsbury's, and was the first design hire at [Cazoo](https://intentionaut.com/case-studies/cazoo/).
 
 ## Two ways to work with me
 
