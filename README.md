@@ -24,6 +24,10 @@ Before Intentionaut I led product and design at [StepStone](https://intentionaut
 
 - 28 Oct 2026: [Context engineering is a product decision](https://intentionaut.com/writing/context-engineering-is-a-product-decision/)
 
+## Work with me
+
+[Book a call](https://intentionaut.com/contact/) or email hello@intentionaut.com.
+
 ## More
 
 - [Writing](https://intentionaut.com/writing/) and the [newsletter](https://intentionaut.com/subscribe/)
